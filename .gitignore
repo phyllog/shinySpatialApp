@@ -7,6 +7,8 @@ app/data/*
 *.zip
 *.pdf
 *.png
+*.RDS
+# no uploading sensitive data.
 data.7z
 app/shinySpatialApp - Shortcut.lnk
 !app/data/.gitkeep
@@ -27,6 +29,9 @@ renv/
 tests/temp/*
 tests/*.RData
 !tests/temp/.gitkeep
+hex_data/*.RDS
+hex_data/*.rda
+
 # History files
 .Rhistory
 .Rapp.history

@@ -32,15 +32,15 @@
     },
     "Mar.data": {
       "Package": "Mar.data",
-      "Version": "2020.11.23",
+      "Version": "2021.04.16",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteRepo": "Mar.data",
       "RemoteUsername": "Maritimes",
       "RemoteRef": "HEAD",
-      "RemoteSha": "978b18f8f67acc74d14149b0a3287feead46a3a4",
-      "Hash": "cb6df22f30b4e3cc2eccd657fe6c3d5f"
+      "RemoteSha": "6d296221429d347a503e3f174778727fbed59e08",
+      "Hash": "db5b3a008232d3ea086ac038985d67e1"
     },
     "Mar.datawrangling": {
       "Package": "Mar.datawrangling",
@@ -57,16 +57,16 @@
     },
     "Mar.utils": {
       "Package": "Mar.utils",
-      "Version": "2021.02.05",
+      "Version": "2021.06.16",
       "Source": "GitHub",
-      "RemoteType": "github",
       "Remotes": "Maritimes/Mar.data",
+      "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteRepo": "Mar.utils",
       "RemoteUsername": "Maritimes",
       "RemoteRef": "HEAD",
-      "RemoteSha": "56ea3917069186227631162ab288dacc72722f39",
-      "Hash": "ceb4c224e91831a893a2c29641887580"
+      "RemoteSha": "43d06ca3837f398f66c08818cd24c1ba4780c7ab",
+      "Hash": "2a71197efe3bc895ef824f14102cfb34"
     },
     "Matrix": {
       "Package": "Matrix",
